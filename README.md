@@ -3,7 +3,7 @@
 - 👯 My curent advisor in ETH is Prof. Dr. Nicolas Gruber. I am now working on at the Environmental Physics (UP) Group in the Institute of Biogeochemistry and Pollutant Dynamics, ETH Zurich. Our group homepage is https://up.ethz.ch, checking our lastest fasinating ocean research in the website!!!
 - 📫 How to reach me: jinming.tang@usys.ethz.ch (ETH mail) and/or jinmingtang@stu.xmu.edu.cn (XMU mail)
 - 🔖 My lastest CV (updated 21 Dec, 2024) [CV of Jin-Ming Tang 20241221 two pages version.pdf](https://github.com/user-attachments/files/18218707/CV.of.Jin-Ming.Tang.20241221.two.pages.version.pdf)
-- 📖📖📖 You can found my prious research in:
+- 📖📖📖 You can found my privous research in:
 - √ Google scholar: https://scholar.google.com/citations?user=LjdoZJ4AAAAJ&hl=en
 - √ ResearchGate: https://www.researchgate.net/profile/Jin-Ming-Tang
 - √ ORCID: https://orcid.org/0000-0002-7001-7700
