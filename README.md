@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on Marine Nitrogen Cycle in the Anthropocene using an Earth system model (CESM-BEC) with a focus on the changing budgets and the role of feedbacks within the system.
 - 👯 My curent advisor in ETH is Prof. Dr. Nicolas Gruber. I am now working on at the Environmental Physics (UP) Group in the Institute of Biogeochemistry and Pollutant Dynamics, ETH Zurich. Our group homepage is https://up.ethz.ch, checking our lastest fasinating ocean research in the website!!!
 - 📫 How to reach me: jinming.tang@usys.ethz.ch (ETH mail) and/or jinmingtang@stu.xmu.edu.cn (XMU mail)
-- 🔖 My lastest CV (updated 21 Dec, 2024) [CV of Jin-Ming Tang 20241221 two pages version.pdf](https://github.com/user-attachments/files/18218707/CV.of.Jin-Ming.Tang.20241221.two.pages.version.pdf)
+- 🔖 My lastest CV (updated 21 Dec, 2024) [CV of Jin-Ming Tang 20241221 two pages version copy.pdf](https://github.com/user-attachments/files/18218766/CV.of.Jin-Ming.Tang.20241221.two.pages.version.copy.pdf)
+
 - 🎙️ Language: English (Proficient; major working language); Chinese (Native; working language); German (Preliminary proficiency)
 - 📖📖📖 You can found my privous research in:
 - √ Google scholar: https://scholar.google.com/citations?user=LjdoZJ4AAAAJ&hl=en
