@@ -1,4 +1,4 @@
-## Hi there 👋 I am Jin-Ming Tang, a PhD student in marine nitrogen cycle and climate in ETH Zurich (UP IBP) and Xiamen University (NCG, MEL).
+## Hi there 👋 I am Jin-Ming Tang, a PhD student in marine nitrogen cycle and climate in ETH Zurich (UP, IBP) and Xiamen University (NCG, MEL).
 - 🔭 I’m currently working on Marine Nitrogen Cycle in the Anthropocene using an Earth system model (CESM-BEC) with a focus on the changing budgets and the role of feedbacks within the system.
 - 👯 My curent advisor in ETH is Prof. Dr. Nicolas Gruber. I am now working on at the Environmental Physics (UP) Group in the Institute of Biogeochemistry and Pollutant Dynamics, ETH Zurich. Our group homepage is https://up.ethz.ch, checking our lastest fasinating ocean research in the website!!!
 - 📫 How to reach me: jinming.tang@usys.ethz.ch (ETH mail) and/or jinmingtang@stu.xmu.edu.cn (XMU mail)
