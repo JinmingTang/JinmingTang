@@ -6,7 +6,7 @@
 
 - 🎙️ Language: English (Proficient; major working language); Chinese (Native; working language); German (Preliminary proficiency)
 - 📖📖📖 You can found my privous research in:
-- √ Google scholar: https://scholar.google.com/citations?user=LjdoZJ4AAAAJ&hl=en
+- √ Google scholar: https://scholar.google.com/citations?user=LjdoZJ4AAAAJ&hl
 - √ ResearchGate: https://www.researchgate.net/profile/Jin-Ming-Tang
 - √ ORCID: https://orcid.org/0000-0002-7001-7700
 - √ Web of Science: https://www.webofscience.com/wos/author/record/IAR-4698-2023
