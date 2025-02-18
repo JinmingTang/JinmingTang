@@ -12,8 +12,8 @@
 - √ Web of Science: https://www.webofscience.com/wos/author/record/IAR-4698-2023
 - ✍️✍️✍️ Some take-home summary of me 😄:
 - √ Visiting PhD Student in ETH Zurich and PhD Student in Xiamen University
-- √ Author of 11 peer-reviewed papers: 1 was published in Nature (as co-author) and 2 were first or co-first author
-- √ Skills: CESM user; Good at analyzing data with Python and MATLAB; Proficient in seawater nutrient and nitrogen isotope analysis; Excellent on-sea field investigation ability (participated in > 5 open-ocean cruises)
+- √ Author of 12 peer-reviewed papers: 1 was published in Nature (as co-author) and 2 were first or co-first author
+- √ Skills: CESM user; Good at analyzing data with Python and MATLAB; Proficient in seawater nutrient and nitrogen isotope analysis; Excellent on-sea field investigation ability (participated in > 5 open-ocean cruises); Project leading; International collaboration (e.g., International Nutrient Inter-comparison Voyage (INIV))
 - √ Key words: Marine nitrogen biogeochemistry; climate science; ocean nitrogen budget; stable nitrogen isotope; nitrogen uptake; nitrification; ocean nutrient cycle; biological carbon pump
 
 
